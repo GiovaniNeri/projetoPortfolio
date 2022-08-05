@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Portfólio | Giovani</title>
+        <script src="https://kit.fontawesome.com/af69400eb1.js" crossorigin="anonymous"></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+        
+        <link href="style.css" rel="stylesheet"> 
+    </head>
+    <body>
+        <div class="container">
+            <div id="header"> Portfólio </div>
+            <div id="menu">
+                <ul>
+                    <li><a href="">Meus Serviços</a></li>
+                    <li><a href="">Contato</a></li>
+                    <li><a href="">Portfólio</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="container">
+            <div id="headerCta">
+                <h1>Olá, meu nome<br>
+                    é Giovani</h1>
+                <p>
+                    Sou progamador e gostaria de apresentar meu <br>
+                    trabalho para você através deste portfólio.
+                </p><br>
+
+                <a id="buttonCta" href="">Meus Serviços</a>
+            </div>
+            <div id="headerImg">
+                <img src="imagens/icon.jpg">
+            </div>
+        </div>
+        <div class="container">
+            <div class=""></div>
+            <div class="header"></div>
+            <div class=""></div>
+            <div class=""></div>
+        </div>
+    </body>
+</html>
